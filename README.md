@@ -2,14 +2,15 @@
 <br>
 <img src = "assets/logo.png"  width = 115.5px  height = 70px>
 <br>
-</div>
+
 <br>
 <p> 
-&emsp; &emsp;  openCanvas is an innovative application developed using OpenCV that allows 
-users to draw on their webcam feed in real time.<br>
-&emsp; &emsp; &emsp; The project combines computer vision with interactive drawing tools, providing a dynamic and engaging user experience. <br>
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Once the drawing is complete, users can save their creations as PNG files.
-</p><br>
+openCanvas is an innovative application developed using OpenCV that allows 
+users to draw on their webcam feed in real time.
+The project combines computer vision with interactive drawing tools, providing a dynamic and engaging user experience.
+Once the drawing is complete, users can save their creations as PNG files.
+</p></div><br>
+
 
 ### Key Features:
 
