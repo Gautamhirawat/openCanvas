@@ -39,8 +39,5 @@ Photo  | Purpose
 <img src = "assets/test1.png"  width = 261.6px  height = 169px>  | This is how the opencv window will look like.
 <img src = "assets/photo.png"  width = 227.75px  height = 129.25px>| This is the photo that is going to be stored.
 
-#### Contributing
-
-We welcome contributions! Please fork the repository and create a pull request with your changes. Make sure to follow the coding standards and include relevant tests.
 
 
