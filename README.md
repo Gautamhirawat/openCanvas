@@ -14,6 +14,9 @@ Once the drawing is complete, users can save their creations as PNG files.
 
 
 
+
+
+
 ### Key Features:
 
 - Real-Time Webcam Feed: The application captures and displays the live feed from the user's webcam, providing a canvas to draw on.
@@ -22,7 +25,16 @@ Once the drawing is complete, users can save their creations as PNG files.
 
 - Save Functionality: The application includes a feature to save the current drawing as a PNG file, preserving the user's artwork.
 
+
+
+
+
 ### Technical Details:
+
+
+
+
+
 
 - OpenCV Integration: Utilizes OpenCV for capturing the webcam feed and processing the video stream.
 
