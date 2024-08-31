@@ -17,6 +17,10 @@ Once the drawing is complete, users can save their creations as PNG files.
 
 
 
+
+
+
+
 ### Key Features:
 
 - Real-Time Webcam Feed: The application captures and displays the live feed from the user's webcam, providing a canvas to draw on.
@@ -51,7 +55,20 @@ Once the drawing is complete, users can save their creations as PNG files.
 
 
 
+
+
+
+
+
+
+
+
 #### Snapshot
+
+
+
+
+
 
 Photo  | Purpose
 ------------- | -------------
